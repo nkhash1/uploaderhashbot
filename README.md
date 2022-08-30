@@ -27,7 +27,7 @@ Bot using pyrogram libray!
 <p>
 <p>browse bellow link with your forked link</p>
 
-<img src="https://www.herokucdn.com/deploy/button.svg" href="https://heroku.com/deploy?template=https://github.com/selfie-bd/UrlUploadDcBot">
+<img src="https://www.herokucdn.com/deploy/button.svg" href="https://heroku.com/deploy?template=https://github.com/nkhash1/uploaderhashbot">
 </p>
 </details>
 
@@ -83,13 +83,6 @@ python bot.py
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
-<h3>Thanks To</h3>
+## THANKS TO
 
-<p>This Bot is developed by using many github open source projects. credit goes to first devs</p>
-
-<h3>License</h3>
-
-[MIT](https://opensource.org/licenses/MIT)
-
-<br>
-<em align='center'>Copyright (c) 2022-present <strong>Hash Minner</strong></em>
+ME 😤
