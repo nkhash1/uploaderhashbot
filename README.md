@@ -1,4 +1,4 @@
-##UPLOADER BOT 📥
+## UPLOADER BOT 📥
 
 <h3>Introduction</h3>
 <p>Name is enough to understand.</p>
@@ -43,6 +43,7 @@ python bot.py
 </pre>
 </p>
 </details>
+
 ### THANKS TO
 
 ME 😤
