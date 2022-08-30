@@ -27,7 +27,7 @@ Bot using pyrogram libray!
 <p>
 <p>browse bellow link with your forked link</p>
 
-<img src="https://www.herokucdn.com/deploy/button.svg" href="https://heroku.com/deploy?template=https://github.com/nkhash1/uploaderhashbot">
+<a href="https://heroku.com/deploy?template=https://github.com/nkhash1/uploaderhashbot"><img src="https://www.herokucdn.com/deploy/button.svg" ></a>
 </p>
 </details>
 
